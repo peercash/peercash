@@ -1,14 +1,7 @@
-Peercash
-========
+PeerCash: Private Digital Cash
 
-Peercash is a variant of the bitcoin protocol built with bitcoinj. It uses an experimental mini-blockchain scheme to achieve better scalability and speed.
+We are building the cryptocurrency that will allow you to take back your privacy.
 
-Project Wiki
-========
+— Privacy is not optional, privacy is mandatory.
 
-http://bitfreak.info/mbc-wiki/
-
-Bitcointalk Thread
-========
-
-https://bitcointalk.org/index.php?topic=215936
+https://peercash.net
