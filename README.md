@@ -6,7 +6,7 @@ We are building the cryptocurrency that will allow you to take back your privacy
 
 https://peercash.net
 
--
+/
 
 PeerGit: Open Repositories for PeerCash Projects
 
